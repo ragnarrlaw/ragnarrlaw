@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ragnarrlaw
 - 👀 I’m interested in low level coding, systems programming and functional programming
-- 💞️ I’m looking to collaborate on basically anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Loading...
 
